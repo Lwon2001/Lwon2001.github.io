@@ -7,8 +7,8 @@ header:
       en-CA   : *EN
       en-AU   : *EN
       zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
+      zh      : *ZH_HANS  归档
+      zh-CN   : *ZH_HANS  归档
       zh-SG   : *ZH_HANS
       zh-Hant : &ZH_HANT  歸檔
       zh-TW   : *ZH_HANT
@@ -33,8 +33,8 @@ header:
       en-CA   : *EN
       en-AU   : *EN
       zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
+      zh      : *ZH_HANS  关于
+      zh-CN   : *ZH_HANS  关于
       zh-SG   : *ZH_HANS
       zh-Hant : &ZH_HANT  關於
       zh-TW   : *ZH_HANT
