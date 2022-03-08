@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 一抹微光的博客
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  个人学习博客
 
 
 ## => Language and Timezone
@@ -35,10 +35,10 @@ timezone: HK# see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones f
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : 罗旺
   url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  avatar    : ./Peashooter.jpg# path or url of avatar image (square)
+  bio       : 吉林大学软件工程专业在读本科生
   email     : 1353028537@qq.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -46,7 +46,7 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  zhihu     : https://www.zhihu.com/people/bingo-9-42# "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : https://github.com/Lwon2001# "user_name" the last part of your profile url, e.g. https://github.com/user_name
